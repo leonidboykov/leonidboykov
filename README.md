@@ -6,6 +6,7 @@ Hi, I am Leonid Boykov, a developer from Russia.
 
 I'm interested various areas of coding stuff, like web or gamedev:
 
+  * My main editor is **VS Code**.
   * **Go** is my primary language of choise for any new application
   * I use **Hugo** to build most of my static websites. I'm also trying Gatsby from time to time.
   * I'm mastering **React** to build my webapps.
