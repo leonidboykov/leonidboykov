@@ -2,21 +2,35 @@
 
 Hi, I am Leonid Boykov, a developer from Russia.
 
-#### My current stack of techologies
+### Languanges
+![Go][golang-badge]
+![Go][js-badge]
+![C++][cpp-badge]
+![Python][python-badge]
 
-I'm interested various areas of coding stuff, like web or gamedev:
+### Tools
+[![Visual Studio Code][vscode-badge]](https://code.visualstudio.com/)
+[![Docker][docker-badge]](https://www.docker.com/)
+[![Hugo][hugo-badge]](https://gohugo.io/)
+[![Godot][godot-badge]](https://godotengine.org/)
 
-  * My main editor is **VS Code**.
-  * **Go** is my primary language of choise for any new application
-  * I use **Hugo** to build most of my static websites. I'm also trying Gatsby from time to time.
-  * I'm mastering **React** to build my webapps.
-  * I really like gamedev, I used to make games with Godot, Gideros, libGDX, Love2D and Unity. I'm also considering an Unreal Engine and Defold.
-  * At home I'm using **Docker** to manage my apps.
-  * Huge **Lua** fan for some reason.
+### Frameworks
 
-At the moment I'm learning CMake and OpenGL to create my own game engine!
+[![React][react-badge]](https://reactjs.org/)
+[![Qt][qt-badge]](https://qt.io/)
 
-My daytime job is a C++ developer at [SeaProject](https://seaproject.ru) company.
+... and more.
+
+[vscode-badge]: https://img.shields.io/badge/editor-visual%20studio%20code-blue?style=flat-square&logo=visual-studio-code&logoColor=white
+[docker-badge]: https://img.shields.io/badge/containers-docker-blue?style=flat-square&logo=docker&logoColor=white
+[hugo-badge]: https://img.shields.io/badge/site%20generator-hugo-blue?style=flat-square&logo=hugo&logoColor=white
+[godot-badge]: https://img.shields.io/badge/engine-godot-blue?style=flat-square&logo=godot-engine&logoColor=white
+[golang-badge]: https://img.shields.io/badge/language-go-blue?style=flat-square&logo=go&logoColor=white
+[js-badge]: https://img.shields.io/badge/language-js-blue?style=flat-square&logo=javascript&logoColor=white
+[cpp-badge]: https://img.shields.io/badge/language-c++-blue?style=flat-square&logo=c%2b%2b&logoColor=white
+[python-badge]: https://img.shields.io/badge/language-python-blue?style=flat-square&logo=python&logoColor=white
+[react-badge]: https://img.shields.io/badge/library-react-blueviolet?style=flat-square&logo=react&logoColor=white
+[qt-badge]: https://img.shields.io/badge/library-qt-brightgreen?style=flat-square&logo=qt&logoColor=white
 
 <!--
 **leonidboykov/leonidboykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
