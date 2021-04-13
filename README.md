@@ -4,7 +4,7 @@ Hi, I am Leonid Boykov, a developer from Russia.
 
 ### Languanges
 ![Go][golang-badge]
-![Go][js-badge]
+![JS][js-badge]
 ![C++][cpp-badge]
 ![Python][python-badge]
 
