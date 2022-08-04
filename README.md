@@ -1,6 +1,6 @@
 ### Hi there, I'm [Leonid Boykov](https://leonidboykov.com) :wave:
 
-Hi, I am Leonid Boykov, a developer from Russia.
+Hi, I am Leonid Boykov, a developer from Israel.
 
 ### Languanges
 ![Go][golang-badge]
